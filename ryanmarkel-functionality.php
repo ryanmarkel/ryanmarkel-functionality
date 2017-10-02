@@ -7,5 +7,3 @@
  * Author: Ryan Markel
  * Author URI: http://ryanmarkel.com/
  */
- 
-add_filter( 'jetpack_sso_bypass_login_forward_wpcom', '__return_true' );
